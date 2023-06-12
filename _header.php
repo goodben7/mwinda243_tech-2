@@ -36,6 +36,9 @@
             </a>
             <ul>
               <li><a href="../formation">Développement Mobile</a></li>
+              <li><a href="../formation">ASP.NET</a></li>
+              <li><a href="../formation">Linux</a></li>
+              <li><a href="../formation">Bureautique</a></li>
               <li><a href="../formation">Développement Web</a></li>
               <li><a href="../formation">Administration Base des Données</a></li>
               <li><a href="../formation">Data Analyst</a></li>

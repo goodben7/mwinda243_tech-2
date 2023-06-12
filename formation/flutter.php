@@ -68,9 +68,9 @@
                 <p>4. TRAVAIL PRATIQUE (MISE EN PLACE D'UNE CALCULATRICE)</p>
                 <p>5. GENERER LA VERSION APK DE L'APPLICATION</p>
 
-                <h2>Niveau 2 (Avancé) </h2>
+                <h2> Niveau 2 (Avancé) </h2>
 
-                <p>1. NOTION SUR L'ARCHITECTURE D'UN PROJE </p>
+                <p>1. NOTION SUR L'ARCHITECTURE D'UN PROJET </p>
                 <p>2. NOTION SUR LES PLUGINS </p>
                 <p>3. LA GESTION DES ETAT </p>
                 <p>4. NOTION SUR LES APIS REST </p>
@@ -83,7 +83,7 @@
                 <p>2. DEPLOIEMENT DU PROJET FINAL SUR PLAYSTORE ET APPSTORE DE MWINDA DIGITAL ACADEMIE</p>
 
                 <blockquote>
-                  <p>
+                  <p style="font-size: 12px;">
                    Les projets finaux seront postés sur les réseaux de la structure afin d'être votés, seuls les 5 meilleurs projets seront certifiés « MWINDA BEST » et pourront bénéficier d'une campagne MWINDA
                   </p>
                 </blockquote>

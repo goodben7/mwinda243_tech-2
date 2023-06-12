@@ -5,7 +5,7 @@
 <?php $current_nav = "index"; ?>
 
 
-<?php require("_header.php") ?>
+<?php require("_header.php") ?> 
  
 
 <!-- ======= Section Héros ======= -->
@@ -157,6 +157,64 @@
 
       </div>
     </section><!-- Fin de la Section Clients -->
+
+    <!-- ======= Section Pourquoi nous ======= -->
+    <section id="why-us" class="why-us">
+      <div class="container-fluid">
+
+        <div class="row">
+
+          <div class="col-lg-5 align-items-stretch position-relative video-box" style='background-image: url("assets/img/mwinda243.png");' data-aos="fade-right">
+          </div>
+
+          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch" data-aos="fade-left">
+
+            <div class="content">
+              <h3> <strong> Pourquoi nous choisir ? </strong> </h3>
+              <p>
+              En termes des services, engagements et accompagnements technologiques, 
+              MWINDA<span style="color : #FFA500; font-family: sans-serif;">243</span> TECH  Assure :
+              </p>
+            </div>
+
+            <div class="accordion-list">
+              <ul>
+                <li data-aos="fade-up" data-aos-delay="100">
+                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Le développement, l’intégration, la maintenance de vos logiciels de gestion<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
+                    <p>
+                      Les logiciels de gestion vous font gagner en temps et en argent car une fois que ceux-ci sont développés convenablement, toutes les actions de comptabilité, finance… seront automatisées. Vous pouvez donc dire adieu aux tâches répétitives puisque tout ira beaucoup plus vite. Et en plus, ils sont faciles à prendre en main.
+                    </p>
+                  </div>
+                </li>
+
+                <li data-aos="fade-up" data-aos-delay="200">
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> La valorisation de données axées sur la réussite de votre entreprise<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
+                    <p>
+                      Les données des entreprises représentent une véritable mine d’informations. Dans un monde où les données proviennent de sources de données multiples, hétérogènes et en croissance permanente, l’enjeu stratégique réside dans la collecte, le traitement + l’analyse et surtout la compréhension et l’interprétation de ces données. 
+                    </p>
+                  </div>
+                </li>
+
+                <li data-aos="fade-up" data-aos-delay="300">
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> L’initiation des jeunes et des élèves aux métiers de l’informatique <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
+                    <p>
+                      Vulgariser l’informatique pour transformer des vies à travers l’apprentissage, est le premier fardeau que nous portons pour les jeunes kinois en particulier et congolais en général.
+                    </p>
+                  </div>
+                </li>
+
+              </ul>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- Fin de la Section Pourquoi nous -->
 
 
     <!-- ======= Section des services ======= -->
