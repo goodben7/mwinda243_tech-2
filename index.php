@@ -56,7 +56,7 @@
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up">
-            <div class="icon-box">
+            <div style="border-radius: 10px 30px 0px 90px;" class="icon-box">
               <div class="icon"><i class="bi bi-patch-check"></i></div>
               <h4 class="title"><a href="">MWINDA TRAINER</a></h4>
               <p class="description">MWINDA TRAINER  est un soutien offert aux étudiants pour la réalisation de leur projet de fin d'étude.</p>
@@ -64,7 +64,7 @@
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon-box">
+            <div style="border-radius: 10px 30px 0px 90px;" class="icon-box">
               <div class="icon"><i class="bi bi-easel"></i></div>
               <h4 class="title"><a href="">ECOLE MWINDA</a></h4>
               <p class="description">Ecole MWINDA aide les élèves à  se dépasser pour transformer leurs défis scolaires en réussites, en offrant des services professionnels et stimulants.</p>
@@ -72,7 +72,7 @@
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon-box">
+            <div style="border-radius: 10px 30px 0px 90px;" class="icon-box">
               <div class="icon"><i class="bi bi-laptop"></i></div>
               <h4 class="title"><a href="">MWINDA ACADEMIE</a></h4>
               <p class="description">MWINDA ACADEMIE propose des programmes de formation adaptés aux des besoins des entreprises et des particuliers. Former et initier aux métiers de l’informatique, (Dans les universités, institutions et écoles). </p>
@@ -80,7 +80,7 @@
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon-box">
+            <div style="border-radius: 10px 30px 0px 90px;" class="icon-box">
               <div class="icon"><i class="bi bi-code-slash"></i></div>
               <h4 class="title"><a href="">MWINDA DIGITAL</a></h4>
               <p class="description">MWINDA DIGITAL est spécialisé dans le développement des solutions technologique  et numérique pour des entreprises et particuliers.</p>
