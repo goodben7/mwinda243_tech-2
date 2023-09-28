@@ -42,7 +42,7 @@
             <div class="entry-meta">
               <ul>
                 <li class="d-flex align-items-center"><i class="bi bi-person"></i>
-                  <a href="../blog/decouvrezlesmetiersdelinformatique.php"> Découvrez les métiers de l’informatique </a>
+                  <a href="../blog/decouvrezlesmetiersdelinformatique.php"> Rédaction MWINDA243 TECH </a>
                 </li>
                 <li class="d-flex align-items-center"><i class="bi bi-clock"></i>
                   <a href="../blog/Découvrez les métiers de l’informatique.php"><time datetime="2020-01-01">27 Septembre 2023</time></a>
